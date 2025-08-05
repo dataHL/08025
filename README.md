@@ -1,1 +1,1 @@
-# 08025
+The zip file contains data on the integrated regions of CIV, MgII, and FeII absorption lines. The data is stored in FITS files named after the corresponding quasar spectra (nearer and farther) and the redshift of the absorption line systems.
